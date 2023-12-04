@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
                 handler.postDelayed(runnable,0);
             }
         });
+
+        // faeze dalili
         btPause.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
